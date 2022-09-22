@@ -570,10 +570,6 @@ $$etc.=etc.=etc.$$
 
 ---
 
-Course materials at: https://github.com/MarkZaydman/PathologyInformatics_2021.git
-
----
-
 <!-- # Review: Prevalence and Accuracy Metrics -->
 
 <block style="margin-left:auto;margin-right:auto;">
